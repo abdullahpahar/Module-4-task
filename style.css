@@ -1,0 +1,48 @@
+img{
+    width: 300px;
+    display: inline;
+}
+.box{
+    width: 400px;
+    padding: 10px 50px;
+    border:5px solid #ffa200;
+    align-items: center;
+    border-radius: 2%;
+    box-shadow: 0 10px 10px -5px;
+    margin: 0 auto;
+}
+option{
+    width: 300px;
+}
+.Fruit-list{
+    width: 400px;
+    padding: 10px 50px;
+    border:5px solid rgb(176, 126, 103);
+    align-items: center;
+    border-radius: 2%;
+    box-shadow: 0 10px 10px -5px;
+    margin: 0 auto;
+    
+}
+.tc{
+    text-align: center;
+}
+.table{
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid red;
+    padding: 5px 20px;
+}
+.heigh-light{
+    font-weight: bold;
+}
+.Criket-turnament{
+    width: 400px;
+    padding: 10px 50px;
+    border:5px solid rgb(89, 117, 12);
+    align-items: center;
+    border-radius: 2%;
+    box-shadow: 0 10px 10px -5px;
+    margin: 0 auto;
+}
